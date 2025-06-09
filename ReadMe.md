@@ -9,8 +9,7 @@ Sistema de gerenciamento para clínica veterinária desenvolvido em Django.
 - Python 3.11+
 - PostgreSQL
 - Git
-- (Opcional) Docker e Docker Compose
-- (Opcional) Ambiente virtual (venv)
+- Ambiente virtual (venv)
 
 ---
 
