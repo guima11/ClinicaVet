@@ -85,7 +85,7 @@ Acesse no navegador:
 ```
 http://127.0.0.1:8000/api/vets
 http://127.0.0.1:8000/api/tutores
-http://127.0.0.1:8000/api/cadastro
+http://127.0.0.1:8000/api/cadastros
 ```
 
 Cadastre em cada link ao menos um dado.
